@@ -18,7 +18,7 @@ I am a beginner in web development and have a great passion to do programming, d
 
 </p>
 
-<b> You can checkout my Portfolio Website ! <a href="https://vimaleshct.github.io/portfolio/">Click here to view. </a> </b>
+<b> You can checkout my Portfolio Website ! <a href="[https://vimaleshct.github.io/portfolio/](https://github.com/VimaleshCT/Vimalesh_Portfolio)">Click here to view. </a> </b>
 <hr/>
 <!-- ![](https://i.imgur.com/waxVImv.png) -->
 
