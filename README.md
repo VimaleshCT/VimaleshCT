@@ -18,7 +18,8 @@ I am a beginner in web development and have a great passion to do programming, d
 
 </p>
 
-<b> You can checkout my Portfolio Website ! <a href="https://VimaleshCT.github.io/Vimalesh_Portfolio/">Click here to view. </a> </b>
+<b> You can checkout my Portfolio Website ! <a href="https://VimaleshCT.github.io/Vimalesh_Portfolio/">Click here to view. </a> </b><br>
+
 <b> You can checkout my Animated Portfolio Website  ! <a href="https://vimaleshct.github.io/Personal_Portfolio/">Click here to view👁️. </a> </b>
 
 <hr/>
