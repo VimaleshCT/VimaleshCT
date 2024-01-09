@@ -62,7 +62,7 @@ These are some of the major languages, technologies, tools and platforms I have 
 <hr/>
 <br/>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=VimaleshCT&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)]
+ ![trophy](https://github-profile-trophy.vercel.app/?username=VimaleshCT&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 
 <br/>
