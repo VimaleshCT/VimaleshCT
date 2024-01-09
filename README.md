@@ -37,6 +37,9 @@ I am a beginner in web development and have a great passion to do programming, d
 [![GitHub Streak](https://streak-stats.demolab.com/?user=VimaleshCT&theme=modern-lilac)](https://git.io/streak-stats)
 
 <br/>
+ <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <!-- ![](https://i.imgur.com/waxVImv.png) -->
 <hr/>
