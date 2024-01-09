@@ -50,7 +50,7 @@ These are some of the major languages, technologies, tools and platforms I have 
 
 <h3>Languages & Databases</h3>
  
- ![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,python) <img src = "https://cdn-icons-png.flaticon.com/128/6132/6132222.png" height ="57" width ="57"/><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+ ![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,python) <img src = "https://cdn-icons-png.flaticon.com/128/6132/6132222.png" height ="57" width ="57"/>    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 <h3>Framework & Technologies </h3>
   
   [![My Skills](https://skillicons.dev/icons?i=react,bootstrap)](https://skillicons.dev)
