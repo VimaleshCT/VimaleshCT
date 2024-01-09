@@ -34,7 +34,7 @@ I am a beginner in web development and have a great passion to do programming, d
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mettasurendhar&layout=compact&langs_count=8&theme=aura&bg_color=000000&card_width=500px&hide_border=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VimaleshCT&show_icons=true&theme=aura&iclude_all_commits=true&line_height=40&hide_border=true&bg_color=100000&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VimaleshCT&layout=compact&langs_count=8&theme=aura&bg_color=100000&card_width=500px&hide_border=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VimaleshCT&theme=modern-lilac)](https://git.io/streak-stats)
+<h3 align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=VimaleshCT&theme=modern-lilac)](https://git.io/streak-stats)<h3/>
 
 <br/>
  <br>
