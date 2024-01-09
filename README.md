@@ -66,8 +66,7 @@ These are some of the major languages, technologies, tools and platforms I have 
 
 
 <br/>
-**Page Views**(Counting since 14th DEC 2022):
-![Visitor Count](https://profile-counter.glitch.me/VimaleshCT/count.svg)
+**Page Views**(Counting since 14th DEC 2022): ![Visitor Count](https://profile-counter.glitch.me/VimaleshCT/count.svg)
 
 <br/>
 
