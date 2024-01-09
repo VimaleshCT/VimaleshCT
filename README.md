@@ -62,6 +62,7 @@ These are some of the major languages, technologies, tools and platforms I have 
 <hr/>
 <br/>
 
+![](https://github-profile-trophy.vercel.app/?username=VimaleshCT&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 <!-- ![](https://i.imgur.com/waxVImv.png) -->
 
 <br/>
