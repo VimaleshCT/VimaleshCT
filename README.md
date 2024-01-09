@@ -51,7 +51,7 @@ These are some of the major languages, technologies, tools and platforms I have 
 <h3>Languages & Databases</h3>
  
  ![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,python) <img src = "https://cdn-icons-png.flaticon.com/128/6132/6132222.png" height ="57" width ="57"/> <br>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="psql" width="40" height="40"/> </a> 
 <h3>Framework & Technologies </h3>
   
   [![My Skills](https://skillicons.dev/icons?i=react,bootstrap)](https://skillicons.dev)  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>  <a href="https://angular.io/docs" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="40" height="40"/> </a> 
