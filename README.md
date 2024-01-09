@@ -54,8 +54,7 @@ These are some of the major languages, technologies, tools and platforms I have 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <h3>Framework & Technologies </h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=react,bootstrap)](https://skillicons.dev)  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-  [![My Skills](https://skillicons.dev/icons?i=react,bootstrap)](https://skillicons.dev)  <a href="https://angular.io/docs" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="40" height="40"/> </a> 
+  [![My Skills](https://skillicons.dev/icons?i=react,bootstrap)](https://skillicons.dev)  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>  <a href="https://angular.io/docs" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="40" height="40"/> </a> 
   
 <h3> Tools & Platform </h3>
   
