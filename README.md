@@ -66,7 +66,8 @@ These are some of the major languages, technologies, tools and platforms I have 
 <!-- ![](https://i.imgur.com/waxVImv.png) -->
 
 <br/>
-
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C680%20hrs%2029%20mins-blue)
 **Page Views**(Counting since 14th DEC 2022): ![Visitor Count](https://profile-counter.glitch.me/VimaleshCT/count.svg)
 
 <br/>
