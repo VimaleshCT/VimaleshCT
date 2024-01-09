@@ -39,7 +39,7 @@ I am a beginner in web development and have a great passion to do programming, d
 <br/>
  <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VimaleshCT&theme=react-dark&bg_color=864AF9&hide_border=true" width="100%"/>
 
 <!-- ![](https://i.imgur.com/waxVImv.png) -->
 <hr/>
