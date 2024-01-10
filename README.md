@@ -12,7 +12,7 @@
 
 </h3>
 
-<p>Welcome to my page!</br></br> Hii Guys! <b>I'm C.T.Vimalesh</b> an aspiring Front-end Web developer from  Dindigul, <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/>  India. I am a Web development enthusiast 🧑‍💻 currently pursuing Bachelor's degree 🎓 in Computer Science at College of Engineering, Guindy.
+<p>Welcome to my page!</br></br> Hii Guys! <b>I'm C.T.Vimalesh</b> an aspiring Front-end Web developer from  Dindigul, <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/>  India. I am a Web development enthusiast 🧑‍💻 and interested to work in Data Analysis currently pursuing Bachelor's degree 🎓 in Computer Science at College of Engineering, Guindy.
 
 I am a beginner in web development and have a great passion to do programming, develop web apps, and websites. My goal is to utilize my skills for the development and growth of my organization with the help of new technologies. Looking forward to enhancing my skills, explore new challenges, and grow professionally.
 
@@ -29,9 +29,6 @@ I am a beginner in web development and have a great passion to do programming, d
 
 <h2 align ="center">📈 My Github Stats</h2>
 
-<!-- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mettasurendhar&show_icons=true&theme=aura&include_all_commits=true&line_height=40&hide_border=true&bg_color=000000&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mettasurendhar&layout=compact&langs_count=8&theme=aura&bg_color=000000&card_width=500px&hide_border=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VimaleshCT&show_icons=true&theme=aura&iclude_all_commits=true&line_height=40&hide_border=true&bg_color=100000&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VimaleshCT&layout=compact&langs_count=8&theme=aura&bg_color=100000&card_width=500px&hide_border=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
