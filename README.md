@@ -201,18 +201,19 @@ me.say_hi()
 </div>
 
 ---
-
 ## 🌱 What I'm Up To
 
-```
-💼 Currently doing    →  SDE Intern @ Amwhiz Media — Full Stack Dev
-🔭 Currently building →  AI-powered full stack applications
-🌱 Currently learning →  System Design · Advanced Next.js · Data Analytics
-👯 Open to collaborate→  Open source & innovative projects
-💬 Ask me about      →  React, Next.js, FastAPI, Django, NestJS, Angular
-📊 Data tools        →  Power BI · Tableau · Pandas
-⚡ Fun fact          →  I debug with console.log and I'm not ashamed 😂
-```
+<div align="left">
+
+💼 **Currently doing:** SDE Intern @ Amwhiz Media — Full Stack Dev  
+🔭 **Currently building:** AI-powered full stack applications  
+🌱 **Currently learning:** System Design · Advanced Next.js · Data Analytics  
+👯 **Open to collaborate:** Open source & innovative projects  
+💬 **Ask me about:** React, Next.js, FastAPI, Django, NestJS, Angular  
+📊 **Data tools:** Power BI · Tableau · Pandas  
+⚡ **Fun fact:** I debug with console.log and I'm not ashamed 😄  
+
+</div>
 
 ---
 
