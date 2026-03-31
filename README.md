@@ -183,7 +183,9 @@ me.say_hi()
 ---
 
 ## 📅 Contribution Calendar
-
+<div align="center">
+   <img src="https://ghchart.rshah.org/40c463/VimaleshCT"/>
+<div>
 
 ---
 
