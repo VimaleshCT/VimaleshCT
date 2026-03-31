@@ -152,7 +152,9 @@ me.say_hi()
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VimaleshCT&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VimaleshCT&bg_color=0d1117&color=00D9FF&line=00D9FF&point=38bdae&area=true&hide_border=true" />
+
 </div>
 
 > 💡 **If stats cards show broken:** Fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) → deploy to your own Vercel → replace the URL above with your deployment URL. Takes 5 minutes and is 100% reliable forever.
@@ -182,11 +184,7 @@ me.say_hi()
 
 ## 📅 Contribution Calendar
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VimaleshCT&bg_color=0d1117&color=00D9FF&line=00D9FF&point=38bdae&area=true&hide_border=true" />
-
-</div>
 ---
 
 ## 🎓 Certifications
