@@ -29,7 +29,7 @@ class Vimalesh:
     def __init__(self):
         self.name       = "C T Vimalesh"
         self.location   = "Dindigul, Tamil Nadu 🇮🇳"
-        self.education  = "B.E. Computer Science @ CEG, Anna University"
+        self.education  = "M.SC. Computer Science(Integrated) @ CEG, Anna University"
         self.role       = "Full Stack Developer & Data Analysis Enthusiast"
         self.languages  = ["Python", "JavaScript", "Java", "C", "SQL"]
         self.stack      = ["React", "Django", "Angular", "Bootstrap"]
