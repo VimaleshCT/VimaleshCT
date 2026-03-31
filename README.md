@@ -182,41 +182,12 @@ me.say_hi()
 
 ## 🐍 Contribution Snake
 
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VimaleshCT/VimaleshCT/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VimaleshCT/VimaleshCT/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/VimaleshCT/VimaleshCT/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VimaleshCT&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" />
 
 </div>
-
-> ⚙️ **One-time snake setup:** Create `.github/workflows/snake.yml` with the content below, enable **Read & Write** permissions in Settings → Actions → General, then run the workflow manually once.
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: VimaleshCT
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 ---
 
@@ -246,6 +217,7 @@ jobs:
 ```
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=VimaleshCT&color=00D9FF&style=for-the-badge)
 
 <div align="center">
 
