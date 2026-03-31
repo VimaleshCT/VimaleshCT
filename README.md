@@ -184,7 +184,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-contribution-stats.vercel.app/api/?username=VimaleshCT&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VimaleshCT&bg_color=0d1117&color=00D9FF&line=00D9FF&point=38bdae&area=true&hide_border=true" />
 
 </div>
 ---
