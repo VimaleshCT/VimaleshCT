@@ -183,9 +183,11 @@ me.say_hi()
 ## 🐍 Contribution Calender
 
 
+## 📅 Contribution Calendar
+
 <div align="center">
 
-<img src="https://ghchart.rshah.org/00D9FF/VimaleshCT" />
+<img src="https://ghchart.rshah.org/70a5fd/VimaleshCT" />
 
 </div>
 ---
