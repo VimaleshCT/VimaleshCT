@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██╗   ██╗██╗███╗   ███╗ █████╗ ██╗     ███████╗███████╗██╗  ██╗
-██║   ██║██║████╗ ████║██╔══██╗██║     ██╔════╝██╔════╝██║  ██║
-██║   ██║██║██╔████╔██║███████║██║     █████╗  ███████╗███████║
-╚██╗ ██╔╝██║██║╚██╔╝██║██╔══██║██║     ██╔══╝  ╚════██║██╔══██║
- ╚████╔╝ ██║██║ ╚═╝ ██║██║  ██║███████╗███████╗███████║██║  ██║
-  ╚═══╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vimalesh%20C%20T&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20SDE%20Intern%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%9A%80;SDE+Intern+%7C+Building+Real+Products+%F0%9F%8F%97%EF%B8%8F;Data+Analytics+%26+AI+Enthusiast+%F0%9F%93%8A;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning%2C+Always+Shipping+%F0%9F%94%A8" alt="Typing SVG" />
 
@@ -17,6 +10,7 @@
 [![Animated Portfolio](https://img.shields.io/badge/Animated_Portfolio-%2300D9FF.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vimaleshct.github.io/Personal_Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimaleshct)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranovvimal30@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/VimaleshCT)
 
 </div>
 
@@ -31,7 +25,7 @@ class Vimalesh:
         self.location    = "Dindigul, Tamil Nadu 🇮🇳"
         self.education   = "M.Sc. Integrated CS @ CEG, Anna University  |  CGPA: 7.63"
         self.roles       = ["Full Stack Developer", "Data Analytics Enthusiast", "AI Builder"]
-        self.current     = "SDE Intern @Amwhiz Media Pvt Ltd → Full Stack🏗️"
+        self.current     = "SDE Intern @ Amwhiz Media Pvt Ltd → Full Stack 🏗️"
         self.languages   = ["Python", "JavaScript", "TypeScript", "Java", "C", "PHP", "SQL"]
         self.frontend    = ["React.js", "Next.js", "Angular", "TailwindCSS", "HTML", "CSS"]
         self.backend     = ["Node.js", "Django", "FastAPI", "NestJS", "CodeIgniter", "REST APIs"]
@@ -50,22 +44,22 @@ me.say_hi()
 
 ## 💼 Work Experience
 
-<div align="center">
+### 🏢 Amwhiz Media Pvt Ltd &nbsp;|&nbsp; SDE Intern &nbsp;`2025 – Present`
+
+- 🏗️ Building a production-grade **Full Stack Application** end-to-end — APIs, database design, and UI
+
+---
 
 ### 🏢 God Particles &nbsp;|&nbsp; Full Stack Developer Intern &nbsp;`Jul 2024 – Dec 2024`
 
-</div>
-
-- 🚀 Engineered **[Madrasmania.de](https://madrasmania.de)** — a German restaurant reservation platform → boosted engagement **89%**, cut booking errors **50%**
+- 🚀 Engineered **[Madrasmania.de](https://madrasmania.de)** — German restaurant reservation platform → boosted engagement **89%**, cut booking errors **50%**
 - ⚡ Optimized backend (PHP · CodeIgniter · MySQL · REST APIs) → improved server response time by **39%**
-- 💼 Launched **[Madello.com](https://madello.com)** — a B2B consultancy platform → generated **300+ leads**, lifted conversions **60%**
+- 💼 Launched **[Madello.com](https://madello.com)** — B2B consultancy platform → generated **300+ leads**, lifted conversions **60%**
 - 🛠️ Managed deployment via **cPanel & GoDaddy** → maintained **99.9% uptime**
 
-<div align="center">
+---
 
 ### 🏛️ SAAS CEG &nbsp;|&nbsp; Technical Design Head &nbsp;`Sep 2024 – May 2025`
-
-</div>
 
 - 🌐 Delivered the official **[SAAS CEG Website](https://saasceg.in)** → increased user session duration by **25%**
 - 🎭 Architected **Agni Cultural Fest Portal** — handled **2,000+ registrations**, reduced bounce rate **30%**
@@ -77,22 +71,19 @@ me.say_hi()
 
 <div align="center">
 
-| 🛠️ Project | 🔧 Tech Stack | 📅 Period | 🔗 |
-|------------|--------------|-----------|-----|
-| **AI Creator Platform** | Next.js · Gemini API · Convex · Shadcn UI | Nov–Dec 2025 | [View →](https://github.com/VimaleshCT) |
-| **AI Student Learning Platform** | React.js · FastAPI · PostgreSQL | Feb–May 2025 | [View →](https://github.com/VimaleshCT) |
-| **CEGAU Website** | React.js · Next.js · MySQL | Jan–May 2025 | [View →](https://github.com/VimaleshCT) |
+| 🛠️ Project | 🔧 Tech Stack | 📅 Period |
+|------------|--------------|-----------|
+| **AI Creator Platform** | Next.js · Gemini API · Convex · Shadcn UI | Nov–Dec 2025 |
+| **AI Student Learning Platform** | React.js · FastAPI · PostgreSQL | Feb–May 2025 |
+| **CEGAU Website** | React.js · Next.js · MySQL | Jan–May 2025 |
 
 </div>
 
-### 🤖 AI Creator Platform
-> Built an AI-powered platform to generate and manage intelligent agents for automation workflows. Integrated AI APIs, authentication, and cloud storage for scalable deployment.
+**🤖 AI Creator Platform** — AI-powered platform to generate and manage intelligent agents for automation workflows. Integrated AI APIs, authentication, and cloud storage for scalable deployment.
 
-### 📚 AI-Assisted Student Learning Platform
-> Personalized course recommendation system using real-time analytics. Full React + FastAPI + PostgreSQL integration via REST APIs.
+**📚 AI-Assisted Student Learning Platform** — Personalized course recommendation system with real-time analytics. Full React + FastAPI + PostgreSQL integration via REST APIs.
 
-### 🏫 CEGAU Website
-> Revamped the college website under the Dean's supervision — improved responsiveness, UI structure, and performance.
+**🏫 CEGAU Website** — Revamped the official college website under Dean's supervision — improved responsiveness, UI structure, and performance.
 
 ---
 
@@ -145,16 +136,35 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
+> ⚡ **Stats are auto-generated via GitHub Actions** into this repo — fully reliable, no API rate limit issues!
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VimaleshCT&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VimaleshCT&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<!-- These images are generated by the GitHub Actions workflow below and stored in this repo -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VimaleshCT&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VimaleshCT&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=VimaleshCT&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="65%" />
+  <img src="https://streak-stats.demolab.com?user=VimaleshCT&theme=tokyonight&hide_border=true" width="65%" />
 </div>
+
+<details>
+<summary>🔧 Fix stats if they show broken images</summary>
+
+**Option 1 — Fork & self-host github-readme-stats on Vercel (100% reliable):**
+1. Fork https://github.com/anuraghazra/github-readme-stats
+2. Go to [vercel.com](https://vercel.com) → Import your fork → Deploy
+3. Add a GitHub PAT as env var `PAT_1` in Vercel settings
+4. Replace `github-readme-stats.vercel.app` in this README with your own Vercel URL
+
+**Option 2 — Use the fast community fork (cache_seconds=60):**
+```
+https://github-readme-stats-fast.vercel.app/api?username=VimaleshCT&theme=tokyonight&hide_border=true
+```
+
+</details>
 
 <br/>
 
@@ -168,55 +178,93 @@ me.say_hi()
 
 <div align="center">
 
+<!-- Primary endpoint -->
 <img src="https://github-profile-trophy.vercel.app/?username=VimaleshCT&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&no-bg=true" />
 
 </div>
 
+<details>
+<summary>🔧 If trophies are broken — use this backup endpoint</summary>
+
+Replace the trophy image URL above with this volunteer-hosted alternative:
+```
+https://github-profile-trophy-liard-delta.vercel.app/?username=VimaleshCT&theme=tokyonight&no-frame=true&margin-w=12&no-bg=true
+```
+Or this enhanced version that shows secret trophies too:
+```
+https://github-trophies.vercel.app/?username=VimaleshCT&theme=tokyonight&no-frame=true
+```
+
+</details>
+
 ---
 
-## 🎓 Certifications
+## 📈 Profile Summary Cards
 
+> 🔁 Auto-generated via GitHub Actions — shows detailed contribution breakdown
+
+<!-- Add the GitHub Action below to generate these. They'll appear once the action runs. -->
 <div align="center">
 
-| 📜 Certificate | 🏛️ Issuer |
-|---------------|-----------|
-| **Angular** | Infosys Springboard |
-| **ReactJS** | SkillUp |
+[![](https://raw.githubusercontent.com/VimaleshCT/VimaleshCT/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/VimaleshCT/VimaleshCT/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/VimaleshCT/VimaleshCT/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/VimaleshCT/VimaleshCT/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/VimaleshCT/VimaleshCT/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
+<details>
+<summary>⚙️ One-time setup — Profile Summary Cards GitHub Action</summary>
+
+**Step 1:** Create `.github/workflows/profile-summary-cards.yml`:
+
+```yaml
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: VimaleshCT
+```
+
+**Step 2:** Create a GitHub PAT (classic) with `repo` scope at https://github.com/settings/tokens
+
+**Step 3:** Add it as a repo secret named `SUMMARY_GITHUB_TOKEN` in Settings → Secrets → Actions
+
+**Step 4:** Run the action manually once → cards appear in `profile-summary-card-output/tokyonight/`
+
+</details>
+
 ---
 
-## 🌱 What I'm Up To
-
-```
-💼 Experience         →  Full Stack Intern @ God Particles | Tech Head @ SAAS CEG
-🔭 Currently building →  AI-powered full stack applications
-🌱 Currently learning →  Advanced Next.js · System Design · Data Analytics
-👯 Open to collaborate→  Open source & innovative projects
-💬 Ask me about      →  React, Next.js, FastAPI, Django, NestJS, Angular
-📊 Data tools        →  Power BI · Tableau · Pandas
-⚡ Fun fact          →  I debug with console.log and I'm not ashamed 😂
-```
-
----
-
-## 📈 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VimaleshCT/VimaleshCT/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VimaleshCT/VimaleshCT/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VimaleshCT/VimaleshCT/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/VimaleshCT/VimaleshCT/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
 <details>
-<summary>⚙️ How to enable the snake animation (one-time setup)</summary>
+<summary>⚙️ One-time setup — Snake Animation GitHub Action</summary>
 
-**Step 1:** Create `.github/workflows/snake.yml` in your `VimaleshCT/VimaleshCT` profile repo:
+Create `.github/workflows/snake.yml`:
 
 ```yaml
 name: Generate Snake
@@ -244,18 +292,46 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-**Step 2:** Go to **Settings → Actions → General → Workflow permissions** → enable **Read and write permissions**
-
-**Step 3:** Go to **Actions tab** → click **Generate Snake** → **Run workflow** manually once
+Go to **Settings → Actions → General → Workflow permissions** → enable **Read and write permissions**, then run manually once.
 
 </details>
+
+---
+
+## 🎓 Certifications
+
+<div align="center">
+
+| 📜 Certificate | 🏛️ Issuer | 🏅 |
+|---------------|-----------|-----|
+| **Angular** | Infosys Springboard | ✅ |
+| **ReactJS** | SkillUp | ✅ |
+
+</div>
+
+---
+
+## 🌱 What I'm Up To
+
+```
+💼 Currently doing    →  SDE Intern @ Amwhiz Media — Full Stack Dev
+🔭 Currently building →  AI-powered full stack applications
+🌱 Currently learning →  System Design · Advanced Next.js · Data Analytics
+👯 Open to collaborate→  Open source & innovative projects
+💬 Ask me about      →  React, Next.js, FastAPI, Django, NestJS, Angular
+📊 Data tools        →  Power BI · Tableau · Pandas
+⚡ Fun fact          →  I debug with console.log and I'm not ashamed 😂
+```
 
 ---
 
 <div align="center">
 
 ### 👀 Profile Views
-![Visitor Count](https://profile-counter.glitch.me/VimaleshCT/count.svg)
+
+[![](https://visitcount.itsvg.in/api?id=VimaleshCT&icon=5&color=6)](https://visitcount.itsvg.in)
+
+> Using **visitcount.itsvg.in** — more reliable than glitch.me counters which go offline frequently.
 
 ### 💬 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -268,6 +344,6 @@ jobs:
 
 <br/>
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
