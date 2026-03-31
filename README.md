@@ -180,15 +180,14 @@ me.say_hi()
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Calender
 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VimaleshCT&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" />
+<img src="https://ghchart.rshah.org/00D9FF/VimaleshCT" />
 
 </div>
-
 ---
 
 ## 🎓 Certifications
