@@ -31,7 +31,7 @@ class Vimalesh:
         self.location    = "Dindigul, Tamil Nadu 🇮🇳"
         self.education   = "M.Sc. Integrated CS @ CEG, Anna University  |  CGPA: 7.63"
         self.roles       = ["Full Stack Developer", "Data Analytics Enthusiast", "AI Builder"]
-        self.current     = "SDE Intern @ SAAS CEG → Full Stack + Technical Design Head 🏗️"
+        self.current     = "SDE Intern @Amwhiz Media Pvt Ltd → Full Stack🏗️"
         self.languages   = ["Python", "JavaScript", "TypeScript", "Java", "C", "PHP", "SQL"]
         self.frontend    = ["React.js", "Next.js", "Angular", "TailwindCSS", "HTML", "CSS"]
         self.backend     = ["Node.js", "Django", "FastAPI", "NestJS", "CodeIgniter", "REST APIs"]
