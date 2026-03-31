@@ -180,14 +180,11 @@ me.say_hi()
 
 ---
 
-## 🐍 Contribution Calender
-
-
 ## 📅 Contribution Calendar
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/70a5fd/VimaleshCT" />
+<img src="https://github-contribution-stats.vercel.app/api/?username=VimaleshCT&theme=tokyonight" />
 
 </div>
 ---
