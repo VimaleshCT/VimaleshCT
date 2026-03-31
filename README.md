@@ -215,7 +215,7 @@ me.say_hi()
 ```
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=VimaleshCT&color=00D9FF&style=for-the-badge)
+
 
 <div align="center">
 
