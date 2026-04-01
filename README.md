@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://VimaleshCT.github.io/Vimalesh_Portfolio/)
 [![Animated Portfolio](https://img.shields.io/badge/Animated_Portfolio-%2300D9FF.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vimaleshct.github.io/Personal_Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimaleshct)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimalesh-c-t/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranovvimal30@gmail.com)
 
 <!-- VISITOR COUNTER — komarev.com is the most reliable service for GitHub profiles -->
