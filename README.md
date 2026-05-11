@@ -54,7 +54,7 @@ me.say_hi()
 
 ### 🏢 God Particles &nbsp;|&nbsp; Full Stack Developer Intern &nbsp;`Jul 2024 – Dec 2024`
 
-- 🚀 Engineered **[Madrasmania.de](https://madrasmania.de)** — German restaurant reservation platform → boosted engagement **89%**, cut booking errors **50%**
+- 🚀 Engineered **[Madrasmania.de](https://www.madras-mania.de/)** — German restaurant reservation platform → boosted engagement **89%**, cut booking errors **50%**
 - ⚡ Optimized backend (PHP · CodeIgniter · MySQL · REST APIs) → improved server response time by **39%**
 - 💼 Launched **[Madello.com](https://madello.com)** — B2B consultancy platform → generated **300+ leads**, lifted conversions **60%**
 - 🛠️ Managed deployment via **cPanel & GoDaddy** → maintained **99.9% uptime**
